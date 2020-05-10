@@ -1,5 +1,5 @@
 FreeBSD:
-   make && make install
+   cbfstool only : make && make install
 
 
 coreboot README
