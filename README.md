@@ -1,3 +1,7 @@
+FreeBSD:
+   make && make install
+
+
 coreboot README
 ===============
 
